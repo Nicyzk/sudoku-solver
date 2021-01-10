@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.button {
+    height: 45px;
+    width: 134px;
+    margin-bottom: 20px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.3rem;
+}
+
+.button:disabled{
+    color:black;
+}

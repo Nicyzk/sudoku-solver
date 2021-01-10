@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.levelsButton{
+    height: 40px;
+    width: 50px;
+    border-radius: 5px;
+    background-color: paleturquoise;
+    outline: none;
+    border: 1px solid rgb(213, 213, 224);
+    cursor: pointer;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.5rem;
+}
+
+.levelsButton:hover{
+    box-shadow: 0px 0px 4px #ccc;
+}
